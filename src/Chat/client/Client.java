@@ -1,6 +1,6 @@
 package Chat.client;
 
-import com.javarush.task.task30.task3008.Connection;
+import Chat.Connection;
 
 public class Client {
     protected Connection connection;
