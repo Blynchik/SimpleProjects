@@ -1,8 +1,10 @@
 package Archiver.command;
 
-import com.javarush.task.task31.task3110.ConsoleHelper;
-import com.javarush.task.task31.task3110.FileProperties;
-import com.javarush.task.task31.task3110.ZipFileManager;
+
+
+import Archiver.ConsoleHelper;
+import Archiver.FileProperties;
+import Archiver.ZipFileManager;
 
 import java.util.List;
 

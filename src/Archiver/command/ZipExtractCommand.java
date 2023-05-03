@@ -1,8 +1,9 @@
 package Archiver.command;
 
-import com.javarush.task.task31.task3110.ConsoleHelper;
-import com.javarush.task.task31.task3110.ZipFileManager;
-import com.javarush.task.task31.task3110.exception.WrongZipFileException;
+
+import Archiver.ConsoleHelper;
+import Archiver.ZipFileManager;
+import Archiver.exception.WrongZipFileException;
 
 import java.nio.file.Path;
 import java.nio.file.Paths;
