@@ -1,6 +1,7 @@
 package HtmlEditor.actions;
 
-import com.javarush.task.task32.task3209.View;
+
+import HtmlEditor.View;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

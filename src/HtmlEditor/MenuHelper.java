@@ -1,8 +1,9 @@
 package HtmlEditor;
 
-import com.javarush.task.task32.task3209.actions.*;
-import com.javarush.task.task32.task3209.listeners.TextEditMenuListener;
-import com.javarush.task.task32.task3209.listeners.UndoMenuListener;
+
+import HtmlEditor.actions.*;
+import HtmlEditor.listeners.TextEditMenuListener;
+import HtmlEditor.listeners.UndoMenuListener;
 
 import javax.swing.*;
 import javax.swing.text.DefaultEditorKit;
