@@ -1,6 +1,7 @@
 package Restaurant.statistic;
 
-import com.javarush.task.task27.task2712.statistic.event.EventDataRow;
+
+import Restaurant.statistic.event.EventDataRow;
 
 public class StatisticManager {
     public void register(EventDataRow data) {
