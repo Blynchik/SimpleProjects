@@ -1,7 +1,8 @@
 package Restaurant.statistic.event;
 
 
-import com.javarush.task.task27.task2712.kitchen.Dish;
+
+import Restaurant.kitchen.Dish;
 
 import java.util.Date;
 import java.util.List;

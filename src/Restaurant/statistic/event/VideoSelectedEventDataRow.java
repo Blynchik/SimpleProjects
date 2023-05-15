@@ -1,7 +1,7 @@
 package Restaurant.statistic.event;
 
 
-import com.javarush.task.task27.task2712.ad.Advertisement;
+import Restaurant.ad.Advertisement;
 
 import java.util.Date;
 import java.util.List;

@@ -1,6 +1,7 @@
 package Restaurant;
 
-import com.javarush.task.task27.task2712.kitchen.Dish;
+
+import Restaurant.kitchen.Dish;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,7 +1,8 @@
 package Restaurant.kitchen;
 
-import com.javarush.task.task27.task2712.ConsoleHelper;
-import com.javarush.task.task27.task2712.Tablet;
+
+import Restaurant.ConsoleHelper;
+import Restaurant.Tablet;
 
 import java.io.IOException;
 import java.util.List;

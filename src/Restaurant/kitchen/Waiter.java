@@ -1,6 +1,7 @@
 package Restaurant.kitchen;
 
-import com.javarush.task.task27.task2712.ConsoleHelper;
+
+import Restaurant.ConsoleHelper;
 
 import java.util.Observable;
 import java.util.Observer;
