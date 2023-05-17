@@ -1,4 +1,4 @@
 package Space;
 
-public class Ufo {
+public class Ufo extends BaseObject {
 }
