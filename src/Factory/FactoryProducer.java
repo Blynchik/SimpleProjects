@@ -1,7 +1,8 @@
 package Factory;
 
-import com.javarush.task.task37.task3702.female.FemaleFactory;
-import com.javarush.task.task37.task3702.male.MaleFactory;
+
+import Factory.female.FemaleFactory;
+import Factory.male.MaleFactory;
 
 public class FactoryProducer {
     public static AbstractFactory getFactory(HumanFactoryType type) {

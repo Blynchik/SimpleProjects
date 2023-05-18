@@ -1,6 +1,7 @@
 package Factory.male;
 
-import com.javarush.task.task37.task3702.Human;
+
+import Factory.Human;
 
 public class TeenBoy implements Human {
     public static final int MAX_AGE = 19;

@@ -1,7 +1,8 @@
 package Factory.female;
 
-import com.javarush.task.task37.task3702.AbstractFactory;
-import com.javarush.task.task37.task3702.Human;
+
+import Factory.AbstractFactory;
+import Factory.Human;
 
 public class FemaleFactory implements AbstractFactory {
 
