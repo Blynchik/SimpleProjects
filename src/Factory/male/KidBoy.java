@@ -1,6 +1,5 @@
 package Factory.male;
 
-
 import com.javarush.task.task37.task3702.Human;
 
 public class KidBoy implements Human {
