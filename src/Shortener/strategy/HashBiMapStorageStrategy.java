@@ -1,5 +1,6 @@
 package Shortener.strategy;
 
+
 import com.google.common.collect.HashBiMap;
 
 public class HashBiMapStorageStrategy implements StorageStrategy {

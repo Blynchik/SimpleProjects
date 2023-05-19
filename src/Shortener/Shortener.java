@@ -1,6 +1,7 @@
 package Shortener;
 
-import com.javarush.task.task33.task3310.strategy.StorageStrategy;
+
+import Shortener.strategy.StorageStrategy;
 
 public class Shortener {
     private Long lastId = 0L;

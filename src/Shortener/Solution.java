@@ -1,6 +1,7 @@
 package Shortener;
 
-import com.javarush.task.task33.task3310.strategy.*;
+
+import Shortener.strategy.*;
 
 import java.util.Date;
 import java.util.HashSet;

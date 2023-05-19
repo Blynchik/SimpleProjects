@@ -1,9 +1,10 @@
 package Shortener.test;
 
-import com.javarush.task.task33.task3310.Helper;
-import com.javarush.task.task33.task3310.Shortener;
-import com.javarush.task.task33.task3310.strategy.HashBiMapStorageStrategy;
-import com.javarush.task.task33.task3310.strategy.HashMapStorageStrategy;
+
+import Shortener.Helper;
+import Shortener.Shortener;
+import Shortener.strategy.HashBiMapStorageStrategy;
+import Shortener.strategy.HashMapStorageStrategy;
 import org.junit.Assert;
 import org.junit.Test;
 

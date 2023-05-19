@@ -1,7 +1,8 @@
 package Shortener.test;
 
-import com.javarush.task.task33.task3310.Shortener;
-import com.javarush.task.task33.task3310.strategy.*;
+
+import Shortener.Shortener;
+import Shortener.strategy.*;
 import org.junit.Assert;
 import org.junit.Test;
 
