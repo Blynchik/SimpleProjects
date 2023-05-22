@@ -1,6 +1,7 @@
 package LogParser;
 
-import com.javarush.task.task39.task3913.query.*;
+
+import LogParser.query.*;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

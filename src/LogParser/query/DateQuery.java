@@ -1,6 +1,7 @@
 package LogParser.query;
 
-import com.javarush.task.task39.task3913.Event;
+
+import LogParser.Event;
 
 import java.util.Date;
 import java.util.Set;
