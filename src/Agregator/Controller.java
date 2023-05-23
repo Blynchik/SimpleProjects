@@ -1,6 +1,7 @@
 package Agregator;
 
-import com.javarush.task.task28.task2810.model.Model;
+
+import Agregator.model.Model;
 
 public class Controller {
 

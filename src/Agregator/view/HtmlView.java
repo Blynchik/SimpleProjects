@@ -1,7 +1,7 @@
 package Agregator.view;
 
-import com.javarush.task.task28.task2810.Controller;
-import com.javarush.task.task28.task2810.vo.Vacancy;
+import Agregator.Controller;
+import Agregator.vo.Vacancy;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -14,7 +14,7 @@ import java.util.List;
 
 public class HtmlView implements View {
 
-    private final String filePath = "./4.JavaCollections/src/" + this.getClass().getPackage().getName().replaceAll("[.]", "/") + "/vacancies.html";
+    private final String filePath = "C:\\Users\\Blynchik\\Desktop\\own\\simpleProjects\\projects\\src\\" + this.getClass().getPackage().getName().replaceAll("[.]", "/") + "/vacancies.html";
 
     private Controller controller;
 

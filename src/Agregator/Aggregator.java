@@ -1,11 +1,11 @@
 package Agregator;
 
 
-import com.javarush.task.task28.task2810.model.HHStrategy;
-import com.javarush.task.task28.task2810.model.HabrCareerStrategy;
-import com.javarush.task.task28.task2810.model.Model;
-import com.javarush.task.task28.task2810.model.Provider;
-import com.javarush.task.task28.task2810.view.HtmlView;
+import Agregator.model.HHStrategy;
+import Agregator.model.HabrCareerStrategy;
+import Agregator.model.Model;
+import Agregator.model.Provider;
+import Agregator.view.HtmlView;
 
 public class Aggregator {
 

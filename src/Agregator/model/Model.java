@@ -1,7 +1,8 @@
 package Agregator.model;
 
-import com.javarush.task.task28.task2810.view.View;
-import com.javarush.task.task28.task2810.vo.Vacancy;
+
+import Agregator.view.View;
+import Agregator.vo.Vacancy;
 
 import java.util.ArrayList;
 import java.util.List;

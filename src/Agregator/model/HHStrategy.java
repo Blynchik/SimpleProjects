@@ -1,6 +1,7 @@
 package Agregator.model;
 
-import com.javarush.task.task28.task2810.vo.Vacancy;
+
+import Agregator.vo.Vacancy;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
