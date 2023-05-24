@@ -1,10 +1,11 @@
 package CashMachine.command;
 
-import com.javarush.task.task26.task2613.CashMachine;
-import com.javarush.task.task26.task2613.ConsoleHelper;
-import com.javarush.task.task26.task2613.CurrencyManipulator;
-import com.javarush.task.task26.task2613.CurrencyManipulatorFactory;
-import com.javarush.task.task26.task2613.exception.InterruptOperationException;
+
+import CashMachine.CashMachine;
+import CashMachine.ConsoleHelper;
+import CashMachine.CurrencyManipulator;
+import CashMachine.CurrencyManipulatorFactory;
+import CashMachine.exception.InterruptOperationException;
 
 import java.util.ResourceBundle;
 

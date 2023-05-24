@@ -1,6 +1,7 @@
 package CashMachine;
 
-import com.javarush.task.task26.task2613.exception.InterruptOperationException;
+
+import CashMachine.exception.InterruptOperationException;
 
 import java.io.BufferedReader;
 import java.io.IOException;

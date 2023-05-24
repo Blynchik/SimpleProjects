@@ -1,7 +1,8 @@
 package CashMachine;
 
-import com.javarush.task.task26.task2613.command.CommandExecutor;
-import com.javarush.task.task26.task2613.exception.InterruptOperationException;
+
+import CashMachine.command.CommandExecutor;
+import CashMachine.exception.InterruptOperationException;
 
 import java.util.Locale;
 

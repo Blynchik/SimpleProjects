@@ -1,7 +1,7 @@
 package CashMachine.command;
 
 
-import com.javarush.task.task26.task2613.exception.InterruptOperationException;
+import CashMachine.exception.InterruptOperationException;
 
 interface Command {
     void execute() throws InterruptOperationException;

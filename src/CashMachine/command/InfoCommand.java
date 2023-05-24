@@ -1,9 +1,10 @@
 package CashMachine.command;
 
-import com.javarush.task.task26.task2613.CashMachine;
-import com.javarush.task.task26.task2613.ConsoleHelper;
-import com.javarush.task.task26.task2613.CurrencyManipulator;
-import com.javarush.task.task26.task2613.CurrencyManipulatorFactory;
+
+import CashMachine.CashMachine;
+import CashMachine.ConsoleHelper;
+import CashMachine.CurrencyManipulator;
+import CashMachine.CurrencyManipulatorFactory;
 
 import java.util.ResourceBundle;
 
