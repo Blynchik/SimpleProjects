@@ -1,6 +1,7 @@
 package Sokoban.controller;
 
-import com.javarush.task.task34.task3410.model.Direction;
+
+import Sokoban.model.Direction;
 
 public interface EventListener {
     void move(Direction direction);

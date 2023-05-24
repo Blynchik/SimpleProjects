@@ -1,6 +1,7 @@
 package Sokoban.model;
 
-import com.javarush.task.task34.task3410.controller.EventListener;
+
+import Sokoban.controller.EventListener;
 
 import java.net.URISyntaxException;
 import java.nio.file.Paths;

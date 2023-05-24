@@ -1,9 +1,9 @@
 package Sokoban.controller;
 
-import com.javarush.task.task34.task3410.model.Direction;
-import com.javarush.task.task34.task3410.model.GameObjects;
-import com.javarush.task.task34.task3410.model.Model;
-import com.javarush.task.task34.task3410.view.View;
+import Sokoban.model.Direction;
+import Sokoban.model.GameObjects;
+import Sokoban.model.Model;
+import Sokoban.view.View;
 
 public class Controller implements EventListener {
     private View view;

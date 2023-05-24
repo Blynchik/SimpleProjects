@@ -1,8 +1,9 @@
 package Sokoban.view;
 
-import com.javarush.task.task34.task3410.controller.Controller;
-import com.javarush.task.task34.task3410.controller.EventListener;
-import com.javarush.task.task34.task3410.model.GameObjects;
+
+import Sokoban.controller.Controller;
+import Sokoban.controller.EventListener;
+import Sokoban.model.GameObjects;
 
 import javax.swing.*;
 
